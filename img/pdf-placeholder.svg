@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1062" viewBox="0 0 800 1062">
+  <rect width="800" height="1062" rx="48" fill="#eef4fd" />
+  <rect x="48" y="48" width="704" height="966" rx="32" fill="#ffffff" stroke="#d6e3f8" stroke-width="4" />
+  <path d="M180 200h440v24H180zm0 120h440v24H180zm0 120h440v24H180zm0 120h300v24H180z" fill="#d6e3f8" />
+  <g fill="#0f5fb1" font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
+    <text x="400" y="520" font-size="52" font-weight="600">Aperçu PDF</text>
+    <text x="400" y="590" font-size="28" fill="#4b6d99">Ouvrir le document pour le consulter</text>
+  </g>
+</svg>
